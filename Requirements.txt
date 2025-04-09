@@ -1,2 +1,8 @@
 nltk
 streamlit
+zipfile
+pickle
+re
+pandas
+spacy
+os
